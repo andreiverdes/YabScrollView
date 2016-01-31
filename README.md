@@ -1,2 +1,1 @@
-# HaiOSView
-iOS like bouncing ScrollView with Facebook's Rebound
+YabScrollView has moved to [Maxcode's repository](https://github.com/maxcode/YabScrollView)
